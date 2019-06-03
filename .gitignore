@@ -192,8 +192,7 @@ bower.json
 /yarn-error.log
 
 # Ignore uploaded files in development
-/storage/*
-!/storage/.keep
+
 
 ### Windows ###
 # Windows thumbnail cache files
